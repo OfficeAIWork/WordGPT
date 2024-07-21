@@ -8,7 +8,7 @@
 
 ## 2 软件安装
 
-### 2.1软件下载（推荐使用百度云下载，速度稳定）
+### 2.1软件下载
 
 [下载地址1](https://www.123pan.com/s/Czz1Td-glxxA.html)  [下载地址2](https://pan.baidu.com/s/1iNtgi479sWEk0ZmUoibqTQ?pwd=NewB)  
 
