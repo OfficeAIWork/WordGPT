@@ -10,7 +10,7 @@
 
 ### 2.1软件下载（推荐使用百度云下载，速度稳定）
 
-[本地下载]({stl.WordGptUrl})  [百度云下载]({stl.WordGptBaidu})  
+[下载地址1](https://www.123pan.com/s/Czz1Td-glxxA.html)  [下载地址2](https://pan.baidu.com/s/1iNtgi479sWEk0ZmUoibqTQ?pwd=NewB)  
 
 ### 2.2软件安装
 
@@ -34,7 +34,7 @@
 
 点击【升级软件】按钮即可自动检查并更新到最新版本。
 
-![](/upload/images/2024/6/ed17325ba5a30bec.png "image.png")
+![](/Images/1.升级菜单.png "image.png")
 
 如果有新版本，等待下载完成按向导步骤执行更新安装，安装完成后重新打开Word或WPS即可。
 
@@ -265,7 +265,6 @@ OfficeAI助理会自动登录当前WordGPT账号，如遇到无法登录的情�
 点击【生成PPT按钮】将Word文档摘要填入【主题】框中，点击【生成提纲】按钮即可快速生成PPT提纲，并支持微调后自动生成带排版内容的PPT演讲稿。
 
 ![图片](/upload/images/2024/7/7a70ec75060ea3b1.png)
-
 
 操作视频步骤可参考以下视频：[https://www.bilibili.com/video/BV1mH4y1F7K9/](https://www.bilibili.com/video/BV1mH4y1F7K9/ "https://www.bilibili.com/video/BV1mH4y1F7K9/")
 
