@@ -1,9 +1,22 @@
-# 仅在本地保留的文件
-_export_temp.html
-overview.docx
-overview.html
-overview.pdf
-product.html
-README_En.md
+# 仅管理 markdown 文件和 Images 下的英文名称图片
+# Ignore everything by default
+*
+
+# Keep .gitignore
+!.gitignore
+
+# Keep all markdown files except 附件清单.md
+!*.md
 附件清单.md
-网页附件/
+
+# Keep Images directory
+!Images/
+
+# Ignore everything inside Images
+Images/*
+
+# Keep only English-named images (NN-name.ext pattern)
+!Images/[0-9][0-9]-*.png
+!Images/[0-9][0-9]-*.gif
+!Images/[0-9][0-9]-*.jpg
+!Images/[0-9][0-9]-*.jpeg
