@@ -39,6 +39,15 @@ OfficeAI.Chat（原 WordGPT）是一款深度适配办公全场景的 AI 智能�
 | :------- | :------------------------------------------------------------------ |
 | 官方网站 | [https://officeai.chat](https://officeai.chat)                       |
 
+#### 各平台安装包下载
+
+| 安装包 | 平台 | 大小 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| OfficeAI.Chat-Windows.rar | Windows 10/11 (x64) | ~74 MB | [下载](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-Windows.rar) |
+| OfficeAI.Chat-macOS.rar | macOS 10.15+ (Intel/Apple Silicon) | ~182 MB | [下载](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-macOS.rar) |
+| OfficeAI.Chat-Linux.rar | Linux (Ubuntu/CentOS 等) | ~113 MB | [下载](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-Linux.rar) |
+| OfficeAI.Chat-DomesticOS.rar | 信创系统 (UOS/Kylin) | ~161 MB | [下载](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-DomesticOS.rar) |
+
 
 > [!IMPORTANT]
 > 安装前请关闭 Office、WPS 等相关软件；部分无管理员权限的电脑建议先关闭杀毒软件，安装完成后再开启。

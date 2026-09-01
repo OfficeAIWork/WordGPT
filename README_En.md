@@ -39,6 +39,15 @@ OfficeAI.Chat (formerly WordGPT) is an AI-powered plugin deeply integrated into 
 | :--- | :--- |
 | Official Website | [https://officeai.chat](https://officeai.chat) |
 
+#### Installer Downloads by Platform
+
+| Installer | Platform | Size | Download |
+| :--- | :--- | :--- | :--- |
+| OfficeAI.Chat-Windows.rar | Windows 10/11 (x64) | ~74 MB | [Download](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-Windows.rar) |
+| OfficeAI.Chat-macOS.rar | macOS 10.15+ (Intel/Apple Silicon) | ~182 MB | [Download](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-macOS.rar) |
+| OfficeAI.Chat-Linux.rar | Linux (Ubuntu/CentOS, etc.) | ~113 MB | [Download](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-Linux.rar) |
+| OfficeAI.Chat-DomesticOS.rar | Domestic OS (UOS/Kylin) | ~161 MB | [Download](https://github.com/OfficeAIWork/WordGPT/releases/download/v1.0.0/OfficeAI.Chat-DomesticOS.rar) |
+
 > [!IMPORTANT]
 > Please close Office, WPS, and other related software before installation. On computers without administrator privileges, it is recommended to temporarily disable antivirus software during installation and re-enable it afterward.
 
