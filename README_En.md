@@ -97,8 +97,6 @@ Check "Custom Model Service" and configure as follows:
 | **API Key** | Copy the API Key from your LLM management console and paste it here |
 | **API Url** | Copy the API Url from your LLM management console and paste it here (ensure it ends with the `/v1` version path) |
 
-![](./Images/06-model.png)
-
 > [!TIP]
 > The software comes pre-configured with standard API endpoints for popular platforms such as DeepSeek, Zhipu, and Alibaba Bailian — selecting one will auto-fill the address. For intranet use, you can run Ollama for fully offline operation with the address format: `http://[server-IP]:11434/v1`
 

@@ -98,8 +98,6 @@ OfficeAI.Chat（原 WordGPT）是一款深度适配办公全场景的 AI 智能�
 | **API Key** | 进入大模型管理后台复制 API Key 并粘贴                                                       |
 | **API Url** | 进入大模型管理后台复制 API Url 并粘贴（注意末尾需带 `/v1` 版本号）                        |
 
-![](./Images/06-model.png)
-
 > [!TIP]
 > 软件已预置 DeepSeek、智谱、阿里百炼等主流平台的标准地址，选择后自动填入。内网可通过 Ollama 完全离线使用，地址格式：`http://[服务器IP]:11434/v1`
 
